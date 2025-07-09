@@ -39,3 +39,25 @@ This is where I document my full journey into **Offensive Security**, **Ethical 
 
 ## 🔖 Notes Structure (coming soon)
 
+📂 cyber-learning/
+├── 📁 notes/
+│ ├── networking.md
+│ ├── linux.md
+│ ├── web-basics.md
+│ └── ...
+├── 📁 tryhackme/
+│ ├── room-1.md
+│ └── room-2.md
+├── 📁 tools/
+│ ├── nmap.md
+│ ├── burpsuite.md
+│ └── ...
+└── README.md
+
+
+## 🚀 Let's Hack!
+
+_“The best way to learn is to break and fix.”_
+
+Follow my progress and feel free to fork, clone, and learn with me 👇  
+📌 [GitHub Profile](https://github.com/Adham0x01)
